@@ -1,0 +1,34 @@
+28-09-2024 12:19:34 [Error] - Error: "C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\bin\Debug\net8.0-windows\haarcascade_frontalface_default.xml"not found
+StackTrace:    at OpenCvSharp.CascadeClassifier.Load(String fileName)
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 24
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
+28-09-2024 12:25:37 [Error] - Error: "C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\bin\Debug\net8.0-windows\haarcascade_frontalface_default.xml"not found
+StackTrace:    at OpenCvSharp.CascadeClassifier.Load(String fileName)
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 24
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
+28-09-2024 12:35:48 [Error] - Error: "C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\bin\Debug\net8.0-windows\haarcascade_frontalface_default.xml"not found
+StackTrace:    at OpenCvSharp.CascadeClassifier.Load(String fileName)
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 24
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
+28-09-2024 12:37:57 [Error] - Error: "C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\bin\Debug\net8.0-windows\haarcascade_frontalface_default.xml"not found
+StackTrace:    at OpenCvSharp.CascadeClassifier.Load(String fileName)
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 24
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
+28-09-2024 12:38:04 [Error] - Error: "C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\bin\Debug\net8.0-windows\haarcascade_frontalface_default.xml"not found
+StackTrace:    at OpenCvSharp.CascadeClassifier.Load(String fileName)
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 24
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
+28-09-2024 12:45:36 [Error] - Error: Unable to find haarcascade_frontalface_default.xml
+StackTrace:    at FaceRecognitionProject.CameraManager.FindHaarCascadeFile() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 116
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 31
+28-09-2024 12:45:36 [Error] - Error: Unable to find haarcascade_frontalface_default.xml
+StackTrace:    at FaceRecognitionProject.CameraManager.FindHaarCascadeFile() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 116
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 31
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
+28-09-2024 12:46:53 [Error] - Error: Unable to find haarcascade_frontalface_default.xml
+StackTrace:    at FaceRecognitionProject.CameraManager.FindHaarCascadeFile() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 117
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 31
+28-09-2024 12:46:53 [Error] - Error: Unable to find haarcascade_frontalface_default.xml
+StackTrace:    at FaceRecognitionProject.CameraManager.FindHaarCascadeFile() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 117
+   at FaceRecognitionProject.CameraManager..ctor(DatabaseManager databaseManager, PictureBox pictureBox, Label resultLabel) in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\CameraManager.cs:line 31
+   at FaceRecognitionProject.MainForm.InitializeManagers() in C:\Users\Dell\OneDrive\facer\FaceRecognitionProject\FaceRecognitionProject\MainForm.cs:line 34
